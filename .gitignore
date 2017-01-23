@@ -1,0 +1,7 @@
+# folder
+solr-4.7.2
+
+files
+*.pyc
+request.md
+schema.xml
